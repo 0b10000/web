@@ -89,7 +89,7 @@ name_short:     "0b10000"
 # Will be used in the document meta and Atom feed subtitle
 #
 # Default:      Super-fast Jekyll framework
-description:    Developer
+description:    Hobbyist developer
 
 # Base URL
 #
@@ -176,7 +176,7 @@ google_analytics:
   url:          https://www.google-analytics.com/analytics.js
 
 # Site Twitter account handle
-twitter:        sparanoid
+twitter:        zerob10000
 
 # Twitter Cards large images
 #
